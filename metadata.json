@@ -1,0 +1,6 @@
+{
+  "name": "College ERP Portal",
+  "description": "College ERP student management system for tracking student names, classes, semester progress, attendance records, and academic credits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
